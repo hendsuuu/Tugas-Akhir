@@ -14,7 +14,7 @@ setInterval(function(){
     if(i>5){
         i = 1;
     }
-},10000)
+},5000)
 
 function forder(){
     document.querySelector(".tambah").style.display = "flex";
